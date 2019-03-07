@@ -1,0 +1,12 @@
+//
+//  Debug.xcconfig
+//  FlutterLearnMix
+//
+//  Created by Himin on 2019/3/6.
+//  Copyright © 2019 Himin. All rights reserved.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+//#include "../../../Flutter/flutter_module/FlutterConfig.xcconfig"
